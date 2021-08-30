@@ -31,7 +31,7 @@ const LoginScreen = () => {
                alt=''
             />
             <button onClick={handleLogin}>Login With google</button>
-            <u>ADMIN:- HRITIK PARMAR</u>
+            <p><u>ADMIN:-HRITIK PARMAR</u></p>
          </div>
       </div>
    )
